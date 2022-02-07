@@ -14,3 +14,7 @@
 
 * [ComposeSpotifyDesktop](https://github.com/Gurupreet/ComposeSpotifyDesktop) - Spotify
 * [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) - Slack
+
+## UI experimentation
+
+* [Compose-Modifiers-Playground](https://github.com/c5inco/Compose-Modifiers-Playground) - Interactive playground for learning how to use Jetpack Compose modifiers 
