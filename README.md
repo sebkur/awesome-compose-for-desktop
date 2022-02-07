@@ -8,6 +8,7 @@
 * [Scooper](https://github.com/windedge/Scooper) - UI for Scoop (package management for Windows)
 * [Gitnuro](https://github.com/aeab13/Gitnuro/) - Git client based on JGit
 * [WorldeSolver](https://github.com/Nohus/WordleSolver) - a Wordle solver
+* [Briar Desktop](https://github.com/briar/briar-desktop) - Secure peer2peer messenger
 
 ## UI rebuilds
 
