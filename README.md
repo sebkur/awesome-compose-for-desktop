@@ -18,3 +18,4 @@
 ## UI experimentation
 
 * [Compose-Modifiers-Playground](https://github.com/c5inco/Compose-Modifiers-Playground) - Interactive playground for learning how to use Jetpack Compose modifiers 
+* [compose-color-picker](https://github.com/godaddy/compose-color-picker) - Classic color picker and different harmony mode pickers
