@@ -10,6 +10,11 @@
 * [WorldeSolver](https://github.com/Nohus/WordleSolver) - a Wordle solver
 * [Briar Desktop](https://github.com/briar/briar-desktop) - Secure peer2peer messenger
 
+## Games
+
+* [asteroids-compose-for-desktop](https://github.com/SebastianAigner/asteroids-compose-for-desktop) - Asteroids
+* [snake-compose-for-desktop](https://github.com/gnu11111/snake-compose-for-desktop) - Snake
+
 ## UI rebuilds
 
 * [ComposeSpotifyDesktop](https://github.com/Gurupreet/ComposeSpotifyDesktop) - Spotify
