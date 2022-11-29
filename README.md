@@ -22,6 +22,7 @@
 
 * [ComposeSpotifyDesktop](https://github.com/Gurupreet/ComposeSpotifyDesktop) - Spotify
 * [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) - Slack
+* [DiscordJetpackCompose](https://github.com/oianmol/DiscordJetpackCompose) - Discord
 
 ## Utilities / Libraries
 
