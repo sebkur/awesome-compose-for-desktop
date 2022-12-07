@@ -29,6 +29,7 @@
 
 * [Decompose](https://github.com/arkivanov/Decompose) - Lifecycle-aware business logic and components, routing
 * [ComposeWindowStyler](https://github.com/MayakaApps/ComposeWindowStyler) - Styling windows for modern / native UI
+* [Ballast](https://github.com/copper-leaf/ballast) - Opinionated Application State Management framework for Kotlin Multiplatform
 
 ## UI experimentation
 
