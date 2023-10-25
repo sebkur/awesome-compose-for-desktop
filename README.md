@@ -11,6 +11,7 @@
 * [Briar Desktop](https://github.com/briar/briar-desktop) - Secure peer2peer messenger
 * [Lanchat](https://github.com/sebkur/lanchat) - a simple LAN broadcast messenger
 * [AVDEdit](https://github.com/morrisseyai/avdedit) - Android Virtual Device editor
+* [Ashampoo Photos](https://ashampoo.com/photos) - a photo organizer
 
 ## Games
 
