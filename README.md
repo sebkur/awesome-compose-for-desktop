@@ -12,6 +12,7 @@
 * [Lanchat](https://github.com/sebkur/lanchat) - a simple LAN broadcast messenger
 * [AVDEdit](https://github.com/morrisseyai/avdedit) - Android Virtual Device editor
 * [Ashampoo Photos](https://ashampoo.com/photos) - a photo organizer
+* [LitBall](https://github.com/rwst/LitBall) - tool for systematic (scientific) literature collection
 
 ## Games
 
